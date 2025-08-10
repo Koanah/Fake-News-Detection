@@ -34,6 +34,7 @@ Class Labels:
 
 ## Tokenization & Embedding
 -Tokenized text using Keras Tokenizer.
+
 -Trained Word2Vec model (vector_size=100, window=10).
 -Created an embedding matrix for the model’s embedding layer.
 
